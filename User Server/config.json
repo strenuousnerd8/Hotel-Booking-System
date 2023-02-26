@@ -1,0 +1,4 @@
+﻿{
+  "connectionString": "mongodb+srv://root:root@sn8.uoqjeml.mongodb.net/?retryWrites=true&w=majority",
+  "secret": "My Secret recipe"
+}
