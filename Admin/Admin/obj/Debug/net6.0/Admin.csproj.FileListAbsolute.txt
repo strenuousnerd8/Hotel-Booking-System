@@ -1,0 +1,100 @@
+C:\Project\Admin\Admin\bin\Debug\net6.0\appsettings.Development.json
+C:\Project\Admin\Admin\bin\Debug\net6.0\appsettings.json
+C:\Project\Admin\Admin\bin\Debug\net6.0\Admin.exe
+C:\Project\Admin\Admin\bin\Debug\net6.0\Admin.deps.json
+C:\Project\Admin\Admin\bin\Debug\net6.0\Admin.runtimeconfig.json
+C:\Project\Admin\Admin\bin\Debug\net6.0\Admin.dll
+C:\Project\Admin\Admin\bin\Debug\net6.0\Admin.pdb
+C:\Project\Admin\Admin\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Project\Admin\Admin\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Project\Admin\Admin\bin\Debug\net6.0\DnsClient.dll
+C:\Project\Admin\Admin\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Project\Admin\Admin\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Project\Admin\Admin\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Project\Admin\Admin\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Project\Admin\Admin\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Project\Admin\Admin\bin\Debug\net6.0\SharpCompress.dll
+C:\Project\Admin\Admin\bin\Debug\net6.0\Snappier.dll
+C:\Project\Admin\Admin\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Project\Admin\Admin\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Project\Admin\Admin\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Project\Admin\Admin\bin\Debug\net6.0\ZstdSharp.dll
+C:\Project\Admin\Admin\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Project\Admin\Admin\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Project\Admin\Admin\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Project\Admin\Admin\obj\Debug\net6.0\Admin.csproj.AssemblyReference.cache
+C:\Project\Admin\Admin\obj\Debug\net6.0\Admin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Admin\Admin\obj\Debug\net6.0\Admin.AssemblyInfoInputs.cache
+C:\Project\Admin\Admin\obj\Debug\net6.0\Admin.AssemblyInfo.cs
+C:\Project\Admin\Admin\obj\Debug\net6.0\Admin.csproj.CoreCompileInputs.cache
+C:\Project\Admin\Admin\obj\Debug\net6.0\Admin.MvcApplicationPartsAssemblyInfo.cs
+C:\Project\Admin\Admin\obj\Debug\net6.0\Admin.MvcApplicationPartsAssemblyInfo.cache
+C:\Project\Admin\Admin\obj\Debug\net6.0\staticwebassets\msbuild.Admin.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Project\Admin\Admin\obj\Debug\net6.0\staticwebassets\msbuild.build.Admin.props
+C:\Project\Admin\Admin\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Admin.props
+C:\Project\Admin\Admin\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Admin.props
+C:\Project\Admin\Admin\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Project\Admin\Admin\obj\Debug\net6.0\staticwebassets.build.json
+C:\Project\Admin\Admin\obj\Debug\net6.0\staticwebassets.development.json
+C:\Project\Admin\Admin\obj\Debug\net6.0\scopedcss\bundle\Admin.styles.css
+C:\Project\Admin\Admin\obj\Debug\net6.0\Admin.csproj.CopyComplete
+C:\Project\Admin\Admin\obj\Debug\net6.0\Admin.dll
+C:\Project\Admin\Admin\obj\Debug\net6.0\refint\Admin.dll
+C:\Project\Admin\Admin\obj\Debug\net6.0\Admin.pdb
+C:\Project\Admin\Admin\obj\Debug\net6.0\Admin.genruntimeconfig.cache
+C:\Project\Admin\Admin\obj\Debug\net6.0\ref\Admin.dll
+C:\Project\Admin\Admin\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Project\Admin\Admin\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Project\Admin\Admin\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Project\Admin\Admin\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Experiment finale\Web API port\Admin\Admin\bin\Debug\net6.0\appsettings.Development.json
+D:\Experiment finale\Web API port\Admin\Admin\bin\Debug\net6.0\appsettings.json
+D:\Experiment finale\Web API port\Admin\Admin\bin\Debug\net6.0\Admin.exe
+D:\Experiment finale\Web API port\Admin\Admin\bin\Debug\net6.0\Admin.deps.json
+D:\Experiment finale\Web API port\Admin\Admin\bin\Debug\net6.0\Admin.runtimeconfig.json
+D:\Experiment finale\Web API port\Admin\Admin\bin\Debug\net6.0\Admin.dll
+D:\Experiment finale\Web API port\Admin\Admin\bin\Debug\net6.0\Admin.pdb
+D:\Experiment finale\Web API port\Admin\Admin\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\Experiment finale\Web API port\Admin\Admin\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+D:\Experiment finale\Web API port\Admin\Admin\bin\Debug\net6.0\DnsClient.dll
+D:\Experiment finale\Web API port\Admin\Admin\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Experiment finale\Web API port\Admin\Admin\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Experiment finale\Web API port\Admin\Admin\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Experiment finale\Web API port\Admin\Admin\bin\Debug\net6.0\MongoDB.Bson.dll
+D:\Experiment finale\Web API port\Admin\Admin\bin\Debug\net6.0\MongoDB.Driver.dll
+D:\Experiment finale\Web API port\Admin\Admin\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+D:\Experiment finale\Web API port\Admin\Admin\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+D:\Experiment finale\Web API port\Admin\Admin\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Experiment finale\Web API port\Admin\Admin\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Experiment finale\Web API port\Admin\Admin\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\Experiment finale\Web API port\Admin\Admin\bin\Debug\net6.0\SharpCompress.dll
+D:\Experiment finale\Web API port\Admin\Admin\bin\Debug\net6.0\Snappier.dll
+D:\Experiment finale\Web API port\Admin\Admin\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Experiment finale\Web API port\Admin\Admin\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Experiment finale\Web API port\Admin\Admin\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Experiment finale\Web API port\Admin\Admin\bin\Debug\net6.0\ZstdSharp.dll
+D:\Experiment finale\Web API port\Admin\Admin\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+D:\Experiment finale\Web API port\Admin\Admin\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Experiment finale\Web API port\Admin\Admin\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+D:\Experiment finale\Web API port\Admin\Admin\obj\Debug\net6.0\Admin.csproj.AssemblyReference.cache
+D:\Experiment finale\Web API port\Admin\Admin\obj\Debug\net6.0\Admin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Experiment finale\Web API port\Admin\Admin\obj\Debug\net6.0\Admin.AssemblyInfoInputs.cache
+D:\Experiment finale\Web API port\Admin\Admin\obj\Debug\net6.0\Admin.AssemblyInfo.cs
+D:\Experiment finale\Web API port\Admin\Admin\obj\Debug\net6.0\Admin.csproj.CoreCompileInputs.cache
+D:\Experiment finale\Web API port\Admin\Admin\obj\Debug\net6.0\Admin.MvcApplicationPartsAssemblyInfo.cs
+D:\Experiment finale\Web API port\Admin\Admin\obj\Debug\net6.0\Admin.MvcApplicationPartsAssemblyInfo.cache
+D:\Experiment finale\Web API port\Admin\Admin\obj\Debug\net6.0\staticwebassets\msbuild.Admin.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Experiment finale\Web API port\Admin\Admin\obj\Debug\net6.0\staticwebassets\msbuild.build.Admin.props
+D:\Experiment finale\Web API port\Admin\Admin\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Admin.props
+D:\Experiment finale\Web API port\Admin\Admin\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Admin.props
+D:\Experiment finale\Web API port\Admin\Admin\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Experiment finale\Web API port\Admin\Admin\obj\Debug\net6.0\staticwebassets.build.json
+D:\Experiment finale\Web API port\Admin\Admin\obj\Debug\net6.0\staticwebassets.development.json
+D:\Experiment finale\Web API port\Admin\Admin\obj\Debug\net6.0\scopedcss\bundle\Admin.styles.css
+D:\Experiment finale\Web API port\Admin\Admin\obj\Debug\net6.0\Admin.csproj.CopyComplete
+D:\Experiment finale\Web API port\Admin\Admin\obj\Debug\net6.0\Admin.dll
+D:\Experiment finale\Web API port\Admin\Admin\obj\Debug\net6.0\refint\Admin.dll
+D:\Experiment finale\Web API port\Admin\Admin\obj\Debug\net6.0\Admin.pdb
+D:\Experiment finale\Web API port\Admin\Admin\obj\Debug\net6.0\Admin.genruntimeconfig.cache
+D:\Experiment finale\Web API port\Admin\Admin\obj\Debug\net6.0\ref\Admin.dll
+C:\Project\Admin\Admin\bin\Debug\net6.0\RabbitMQ.Client.dll
